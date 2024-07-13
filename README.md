@@ -1,5 +1,6 @@
 # Somethings-you-should-to-Know
 In this repository, I share some useful resources that you should know before pursuing your Master's or Ph.D. degree.
+
 在此，我想和大家分享一些个人有用的资源，当你处于大三升入大四阶段，面临对于自己的下一个阶段的抉择，希望能够对于你有所帮助。
 创建这个repo的原因有许多，
 ## 直接原因：
