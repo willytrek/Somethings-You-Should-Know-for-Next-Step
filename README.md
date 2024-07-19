@@ -37,8 +37,14 @@ Marcsims的视频时效性或许有点过时了，但是其视频中观点给了
 
 ## 关于转码，值得你去了解的：
 [CS自学指南](https://csdiy.wiki/)
-这个是CS自学的资料合集，
+这个是CS自学的资料合集，在序言部分中这个作者已经详细的指明了如何使用这个合集了
 
-## 欢迎大家的参与，更新，分享与传播！！！ 如有错误指出，欢迎大家指正！！！可以直接在issue中提出，或者通过邮箱联系我：tanchao_willytrek@qq.com
+## 关于思想转变：
+[哈维穆德学院2024年毕业致辞](https://www.bilibili.com/video/BV1nZ421W7HS/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=be20c3e2a56a68eef76e68f6d73c2f81)  
+3Blue1Brown （[B站](https://space.bilibili.com/88461692),[YouTube](https://www.youtube.com/@3blue1brown) ）
+我想对于这个频道你或多或少都有有所接触，其作者是Grant Sanderson，以上是他做的毕业致辞，相比于以往打鸡血的，鸡汤致辞，这个更贴近现实
+对于未来的选择，热爱只是起点，促使你行动起来，在未来的变化中因时因势制宜
+
+## 欢迎大家的参与，更新，分享与传播！！！ 如有错误指出，欢迎大家指正！！！可以直接在issue中提出，或者通过邮箱联系我们：tanchao_willytrek@qq.com
 
 待续....
