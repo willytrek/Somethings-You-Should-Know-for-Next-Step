@@ -66,7 +66,7 @@ Marcsims的视频时效性或许有点过时了，但是其视频中观点给了
 我想对于这个频道你或多或少都有有所接触，其作者是Grant Sanderson，以上是他做的毕业致辞，相比于以往打鸡血的，鸡汤致辞，这个更贴近现实
 对于未来的选择，热爱只是起点，促使你行动起来，在未来的变化中因时因势制宜
 
-## some advice and tips from Big name
+## some advice and tips from Big name：
 
 [Tip, advice, guidelines, policies, rules for Frédo Durand's students](https://people.csail.mit.edu/fredo/student-manual.html)
 
