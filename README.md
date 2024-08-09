@@ -43,11 +43,10 @@ liang导的视频干货满满，类似与播客，长视频
 ### [华科飞跃手册](https://hust-feiyue.github.io/)
 
 “飞跃手册”是一本由中国留学生编写的非正式指南，专门为希望申请国外研究生或博士项目的中国学生提供帮助。
-它涵盖了申请过程中各个阶段的实用信息和建议，  
+它涵盖了申请过程中各个阶段的实用信息和建议，
 
 基本上每个高校都会有，可以直接搜索感兴趣的“高校”+“飞跃手册”。由于我专业与方向的原因，对于华科的飞跃手册看的比较多。可惜目前公开的只到20版，希望华科的朋友可以问问后续
 是否会公开更新的版本。
-
 
 ### [欧陆（CS大类）留学指北](https://space.bilibili.com/194560/channel/collectiondetail?sid=649049)
 
@@ -66,14 +65,21 @@ Marcsims的视频时效性或许有点过时了，但是其视频中观点给了
 我想对于这个频道你或多或少都有有所接触，其作者是Grant Sanderson，以上是他做的毕业致辞，相比于以往打鸡血的，鸡汤致辞，这个更贴近现实
 对于未来的选择，热爱只是起点，促使你行动起来，在未来的变化中因时因势制宜
 
-## some advice and tips from Big name：
+## Some advice and tips from Big name：
+
+### From [Frédo Durand](https://people.csail.mit.edu/fredo/):
+
+[Life after the PhD](https://people.csail.mit.edu/fredo/LifeAfterPhD.pdf)
 
 [Tip, advice, guidelines, policies, rules for Frédo Durand's students](https://people.csail.mit.edu/fredo/student-manual.html)
 
-Frédo Durand is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology,
-and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). He received his PhD from Grenoble
-University, France, in 1999, supervised by Claude Puech and George Drettakis. From 1999 till 2002, he was a post-doc in
-the MIT Computer Graphics Group with Julie Dorsey.
+### From  [Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/)
+
+[Advice on Applying to CS PhD](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+### From [Toshiya Hachisuka](https://cs.uwaterloo.ca/~thachisu/)
+
+[PhD Survival Guide](https://cs.uwaterloo.ca/~thachisu/survival.pdf)
 
 ## 欢迎大家的参与，更新，分享与传播！！！ 如有错误指出，欢迎大家指正！！！可以直接在issue中提出，或者通过邮箱联系我们：tanchao_willytrek@qq.com
 
