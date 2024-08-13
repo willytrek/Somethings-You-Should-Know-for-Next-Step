@@ -58,6 +58,8 @@ Marcsims的视频时效性或许有点过时了，但是其视频中观点给了
 [CS自学指南](https://csdiy.wiki/)
 这个是CS自学的资料合集，在序言部分中这个作者已经详细的指明了如何使用这个合集了
 
+[编程自学](https://www.r2coding.com/#/README)
+
 ## 关于思想转变：
 
 [哈维穆德学院2024年毕业致辞](https://www.bilibili.com/video/BV1nZ421W7HS/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=be20c3e2a56a68eef76e68f6d73c2f81)  
