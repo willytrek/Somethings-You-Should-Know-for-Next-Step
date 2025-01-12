@@ -48,7 +48,7 @@ liang导的视频干货满满，类似与播客，长视频
 
 ### [Some suggestions for New PHD students](https://zhuanlan.zhihu.com/p/347223193):
 来自知乎 [胡津铭](https://www.zhihu.com/people/hu-jin-ming-31) 的分享：读博总结的总结：整理优质的CS读博(PhD)总结和建议文章
-在此处根据其文，整理更新一下
+在此处根据其文，整理更新一下，更新了一些失效链接。
 
 #### The PhD Grind by Philip Guo  
 **简介**: 由 Philip Guo 撰写的小书，讲述他在 Stanford 攻读博士学位期间的挣扎与成长经历，并分享了丰富的经验和教训。  
