@@ -1,6 +1,6 @@
 # Somethings-You-Should-Know
-[TOC]
 
+# 目录
 ## 原因：
 - [直接原因](#直接原因)
 - [根本原因](#根本原因)
