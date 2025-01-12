@@ -1,4 +1,39 @@
 # Somethings-You-Should-Know
+[TOC]
+
+## 原因：
+- [直接原因](#直接原因)
+- [根本原因](#根本原因)
+
+## 关于大学生活与规划，值得你去了解的：
+- [上海交通大学生存手册](#上海交通大学生存手册)
+
+## 关于理工科读博，值得你去了解的：
+- [理工科读博系列](#理工科读博系列)
+- [Learning research](#learning-research)
+- [Make-your-research-life-easier](#make-your-research-life-easier)
+- [Some suggestions for New PHD students](#some-suggestions-for-new-phd-students)
+  - [The PhD Grind by Philip Guo](#the-phd-grind-by-philip-guo)
+  - [Advice for Early-Stage Ph.D. Students by Philip Guo](#advice-for-early-stage-phd-students-by-philip-guo)
+  - [A Survival Guide to a PhD by Andrej Karpathy](#a-survival-guide-to-a-phd-by-andrej-karpathy)
+
+## 关于出国留学，值得你去了解的：
+- [华科飞跃手册](#华科飞跃手册)
+- [欧陆（CS大类）留学指北](#欧陆cs大类留学指北)
+
+## 关于转码，值得你去了解的：
+- [CS自学指南](#cs自学指南)
+- [编程自学](#编程自学)
+
+## 关于思想转变：
+- [哈维穆德学院2024年毕业致辞](#哈维穆德学院2024年毕业致辞)
+
+## Some advice and tips from Big name：
+- [Frédo Durand](#from-frédo-durand)
+- [Mor Harchol-Balter](#from-mor-harchol-balter)
+- [Toshiya Hachisuka](#from-toshiya-hachisuka)
+- [Steven M. LaValle](#from-steven-m-lavalle)
+- 
 ## 前言
 
 In this repository, I share some useful resources that you should know before pursuing your Master's or Ph.D. degree.
